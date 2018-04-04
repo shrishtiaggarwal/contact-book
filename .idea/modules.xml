@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springProjectContactBook.iml" filepath="$PROJECT_DIR$/.idea/modules/springProjectContactBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springProjectContactBook_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springProjectContactBook_main.iml" group="springProjectContactBook" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springProjectContactBook_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springProjectContactBook_test.iml" group="springProjectContactBook" />
+    </modules>
+  </component>
+</project>
